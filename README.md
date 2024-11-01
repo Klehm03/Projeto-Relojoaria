@@ -11,6 +11,6 @@
 
 ## Contato
 
-Desenvolvido por **Sarah Gabriela Lemos, Isaque Klehm, Felipe de Lima e Gabriel Casagrande**.  
+Desenvolvido por **Isaque Klehm, Sarah Gabriela Lemos, Felipe de Lima e Gabriel Casagrande**.  
 Email: isaqueklehm@gmail.com
 LinkedIn:
