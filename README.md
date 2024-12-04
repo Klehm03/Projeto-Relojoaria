@@ -36,7 +36,7 @@ Abaixo está os modelos de banco de dados.
 
 ---
 
-**Tabela relojoaria**
+**Tabela Relojoaria**
 
  -**id (PK)**: Identificador único da loja.
 
