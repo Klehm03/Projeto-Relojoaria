@@ -47,7 +47,7 @@ Abaixo está os modelos de banco de dados.
 
 **endereço**: local onde a loja fica.
 
-
+---
 
  **Tabela Funcionário**
 
@@ -68,10 +68,9 @@ Abaixo está os modelos de banco de dados.
 
 **email**: email para contato profissional.
 
-
+---
 
 **Tabela Cadastro de Cliente**
-
 
 
 **id (PK)**: Identificador único da cliente cadastrado.
@@ -94,10 +93,9 @@ Abaixo está os modelos de banco de dados.
 
 **telcell**: telefone ou celular di cliente para contato com o próprio.
 
-
+---
 
 **Tabela Venda**
-
 
 
 **id (PK)**: Identificador único da venda.
@@ -114,10 +112,9 @@ Abaixo está os modelos de banco de dados.
 
 **valor_tot**: valor total da venda.
 
-
+---
 
 **Tabela Produto**
-
 
 
 **id(PK)**: identificador único do  produto.
@@ -143,10 +140,9 @@ Abaixo está os modelos de banco de dados.
 
 **material**: tipo de material utilizado da fabricação.
 
-
+---
 
 **Tabela Estoque**
-
 
 
 **id(PK)**: indentificador único do estoque.
@@ -156,6 +152,8 @@ Abaixo está os modelos de banco de dados.
 
 
 **id(FK)**: identicador de onde as informações dos produtos vão vir.
+
+---
 
 ## Contato
 
