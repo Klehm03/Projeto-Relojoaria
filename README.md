@@ -34,6 +34,8 @@ Abaixo está os modelos de banco de dados.
 
 ## Estrutura das Tabelas
 
+---
+
 **Tabela relojoaria**
 
  -**id (PK)**: Identificador único da loja.
